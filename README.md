@@ -8,14 +8,20 @@
 | Repository | prvn-ai/test2 |
 | Author | Praveen |
 | Created Date | 2026-06-03 |
-| Version | 1.0 |
-| Status | Initial Release |
+| Version | 1.2 |
+| Status | Active |
 
 ## Version History
 
 | Version | Date | Author | Description |
 |---------|------|--------|-------------|
 | 1.0 | 2026-06-03 | Praveen | Initial creation of GPT-GitHub integration documentation |
+| 1.1 | 2026-06-03 | Praveen | Added Madurai project folder structure, HTML page, CSS stylesheet and SVG assets |
+| 1.2 | 2026-06-03 | Praveen | Refactored Madurai HTML and CSS into properly structured, readable and maintainable source code |
+
+## Repository Governance
+
+**Repository Rule:** Every repository modification must include a corresponding Version History update. No file changes should be committed without updating the document version and change log.
 
 ## Overview
 
@@ -37,8 +43,6 @@ This repository was used to validate and test the integration between ChatGPT an
 
 ## Capabilities Available Through the Integration
 
-With repository access, ChatGPT can assist with:
-
 - Creating and updating files
 - Generating documentation
 - Creating branches
@@ -47,6 +51,6 @@ With repository access, ChatGPT can assist with:
 - Reviewing repository content
 - Managing project documentation
 
-## Current Test Outcome
+## Current Status
 
-This README serves as proof that the GitHub integration is functioning correctly and that ChatGPT can create and modify files directly within the repository.
+The repository contains documentation and the Madurai website project. Future repository modifications will include automatic version-history updates as part of the same change cycle.
