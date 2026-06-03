@@ -1,5 +1,24 @@
 # GPT-GitHub Integration Setup
 
+## Document Control
+
+| Attribute | Value |
+|-----------|-------|
+| Document Name | GPT-GitHub Integration Setup |
+| Repository | prvn-ai/test2 |
+| Author | Praveen |
+| Created Date | 2026-06-03 |
+| Version | 1.0 |
+| Status | Initial Release |
+
+## Version History
+
+| Version | Date | Author | Description |
+|---------|------|--------|-------------|
+| 1.0 | 2026-06-03 | Praveen | Initial creation of GPT-GitHub integration documentation |
+
+## Overview
+
 This repository was used to validate and test the integration between ChatGPT and GitHub.
 
 ## Connected GitHub Account
@@ -14,9 +33,9 @@ This repository was used to validate and test the integration between ChatGPT an
 3. Verified the authenticated GitHub profile.
 4. Listed repositories accessible through the integration.
 5. Confirmed access to the `test2` repository.
-6. Created this README file directly from ChatGPT using the GitHub integration.
+6. Created and updated repository files directly from ChatGPT using the GitHub integration.
 
-## What ChatGPT Can Do
+## Capabilities Available Through the Integration
 
 With repository access, ChatGPT can assist with:
 
@@ -28,6 +47,6 @@ With repository access, ChatGPT can assist with:
 - Reviewing repository content
 - Managing project documentation
 
-## Current Test
+## Current Test Outcome
 
-This README serves as proof that the GitHub integration is working and that ChatGPT can write content directly into the repository.
+This README serves as proof that the GitHub integration is functioning correctly and that ChatGPT can create and modify files directly within the repository.
